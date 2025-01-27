@@ -1,10 +1,9 @@
 # 💫 About Me:
-🚀 Passionate about IoT, Embedded Systems, AI, and Robotics.
-🔧 Currently working on building innovative solutions using cutting-edge technologies.
-💡 Exploring ways to integrate AI and robotics into IoT systems to make the world smarter.
-📚 Always learning, experimenting, and contributing to open-source projects.
-🔗 Feel free to check out my repositories and connect!
-
+🚀 Passionate about **IoT**, **Embedded Systems**, **AI**, and **Robotics**.<br>
+🔧 Currently working on building innovative solutions using cutting-edge technologies. <br> 
+💡 Exploring ways to integrate AI and robotics into IoT systems to make the world smarter.  <br>
+📚 Always learning, experimenting, and contributing to open-source projects.<br>  
+🔗 Feel free to check out my repositories and connect!<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charles.shaju.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charles_shaju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-shaju) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@charles-shaju) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mr__CS) 
