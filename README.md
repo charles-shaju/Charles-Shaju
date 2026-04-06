@@ -120,7 +120,7 @@ Feel free to check out my repositories and connect.
 </td>
 <td width="45%" valign="top" align="center">
 <p>
-<img width="420" alt="Languages" src="assets/languages.svg" />
+<img alt="Languages" src="assets/languages.svg" style="max-width:420px;width:100%;height:auto;display:block;margin:0 auto;" />
 </p>
 </td>
 </tr>
@@ -130,15 +130,15 @@ Feel free to check out my repositories and connect.
 <!-- ====== EXTRA STATS ====== -->
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <p style="margin:0;">
-<img width="360" alt="GitHub streak" src="https://streak-stats.demolab.com?user=charles-shaju&theme=github-dark-blue&hide_border=true&cache_seconds=21600" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=charles-shaju&theme=github-dark-blue&hide_border=true&cache_seconds=21600" style="max-width:360px;width:100%;height:auto;" />
 </p>
 </div>
 
 <!-- ====== NOTABLE PROJECTS ====== -->
 <h3>Notable Projects</h3>
-<table width="100%" style="border-collapse:separate;border-spacing:14px;">
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:7px;">
 <a href="https://github.com/charles-shaju/Intelligent-Voice-Assistant" style="display:block;text-decoration:none;color:inherit;">
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;">
@@ -155,7 +155,7 @@ Feel free to check out my repositories and connect.
 </div>
 </a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:7px;">
 <a href="https://github.com/charles-shaju/neuralintents" style="display:block;text-decoration:none;color:inherit;">
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;">
@@ -174,7 +174,7 @@ Feel free to check out my repositories and connect.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:7px;">
 <a href="https://github.com/charles-shaju/OBM-IoT" style="display:block;text-decoration:none;color:inherit;">
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;">
@@ -191,7 +191,7 @@ Feel free to check out my repositories and connect.
 </div>
 </a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:7px;">
 <a href="https://github.com/charles-shaju/Smart_Altimeter" style="display:block;text-decoration:none;color:inherit;">
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;">
@@ -210,7 +210,7 @@ Feel free to check out my repositories and connect.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:7px;">
 <a href="https://github.com/charles-shaju/Graphical-LLP" style="display:block;text-decoration:none;color:inherit;">
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;">
@@ -227,7 +227,7 @@ Feel free to check out my repositories and connect.
 </div>
 </a>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top" style="padding:7px;"></td>
 </tr>
 </table>
 
