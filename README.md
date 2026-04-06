@@ -94,9 +94,7 @@ Feel free to check out my repositories and connect.
 <!-- ====== TECH STACK & LANGUAGES ====== -->
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <h3 style="margin:0;">Tech Stack &amp; Languages</h3>
-<table width="100%" style="margin-top:12px;">
-<tr>
-<td width="55%" valign="top">
+<div style="margin-top:12px;">
 <p><b>Self-Learner</b> | <b>ML Enthusiast</b> | <b>Python</b></p>
 <p><b>Core Technologies</b></p>
 <p>
@@ -117,20 +115,16 @@ Feel free to check out my repositories and connect.
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
-</td>
-<td width="45%" valign="top" align="center">
-<p>
-<img alt="Languages" src="assets/languages.svg" style="max-width:420px;width:100%;height:auto;display:block;margin:0 auto;" />
+</div>
+<p align="center" style="margin:12px 0 0;">
+<img width="420" alt="Languages" src="assets/languages.svg" />
 </p>
-</td>
-</tr>
-</table>
 </div>
 
 <!-- ====== EXTRA STATS ====== -->
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <p style="margin:0;">
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=charles-shaju&theme=github-dark-blue&hide_border=true&cache_seconds=21600" style="max-width:360px;width:100%;height:auto;" />
+<img width="420" alt="GitHub streak" src="https://streak-stats.demolab.com?user=charles-shaju&theme=github-dark-blue&hide_border=true&cache_seconds=21600" />
 </p>
 </div>
 
