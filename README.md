@@ -26,15 +26,6 @@ Single-column layout avoids horizontal scrolling on profile pages.
 <br />
 
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
-<h3 style="margin:0;">Contributions</h3>
-<p style="margin:12px 0 0;">
-<img alt="Contribution chart" src="assets/contributions.svg" width="100%" />
-</p>
-</div>
-
-<br />
-
-<div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <h3 style="margin:0;">Tech Stack &amp; Languages</h3>
 <p style="margin:12px 0 0;"><b>Self-Learner</b> | <b>ML Enthusiast</b> | <b>Python</b></p>
 <p><b>Core Technologies</b></p>
@@ -72,56 +63,6 @@ Single-column layout avoids horizontal scrolling on profile pages.
 
 <br />
 
-<h3>Notable Projects</h3>
-
-<div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
-<a href="https://github.com/charles-shaju/Intelligent-Voice-Assistant" style="text-decoration:none;color:#2EA043;"><b>Intelligent-Voice-Assistant</b></a><br />
-<img alt="Language" src="https://img.shields.io/github/languages/top/charles-shaju/Intelligent-Voice-Assistant?style=flat&label=&labelColor=161616&color=161616" /><br />
-<span style="color:#A1A1A1;">A intelligent voice assistant that uses TensorFlow to identify commands and run actions.</span><br />
-<img alt="Stars" src="https://img.shields.io/github/stars/charles-shaju/Intelligent-Voice-Assistant?style=flat&label=Stars&labelColor=161616&color=161616" />
-<img alt="Forks" src="https://img.shields.io/github/forks/charles-shaju/Intelligent-Voice-Assistant?style=flat&label=Forks&labelColor=161616&color=161616" />
-</div>
-
-<br />
-
-<div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
-<a href="https://github.com/charles-shaju/neuralintents" style="text-decoration:none;color:#2EA043;"><b>neuralintents</b></a><br />
-<img alt="Language" src="https://img.shields.io/github/languages/top/charles-shaju/neuralintents?style=flat&label=&labelColor=161616&color=161616" /><br />
-<span style="color:#A1A1A1;">A simple interface for working with intents and chatbots.</span><br />
-<img alt="Stars" src="https://img.shields.io/github/stars/charles-shaju/neuralintents?style=flat&label=Stars&labelColor=161616&color=161616" />
-<img alt="Forks" src="https://img.shields.io/github/forks/charles-shaju/neuralintents?style=flat&label=Forks&labelColor=161616&color=161616" />
-</div>
-
-<br />
-
-<div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
-<a href="https://github.com/charles-shaju/OBM-IoT" style="text-decoration:none;color:#2EA043;"><b>OBM-IoT</b></a><br />
-<img alt="Language" src="https://img.shields.io/github/languages/top/charles-shaju/OBM-IoT?style=flat&label=&labelColor=161616&color=161616" /><br />
-<span style="color:#666666;"><i>No description available for this repository.</i></span><br />
-<img alt="Stars" src="https://img.shields.io/github/stars/charles-shaju/OBM-IoT?style=flat&label=Stars&labelColor=161616&color=161616" />
-<img alt="Forks" src="https://img.shields.io/github/forks/charles-shaju/OBM-IoT?style=flat&label=Forks&labelColor=161616&color=161616" />
-</div>
-
-<br />
-
-<div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
-<a href="https://github.com/charles-shaju/Smart_Altimeter" style="text-decoration:none;color:#2EA043;"><b>Smart_Altimeter</b></a><br />
-<img alt="Language" src="https://img.shields.io/github/languages/top/charles-shaju/Smart_Altimeter?style=flat&label=&labelColor=161616&color=161616" /><br />
-<span style="color:#A1A1A1;">Smart IoT Altimeter with precise MSL measurement.</span><br />
-<img alt="Stars" src="https://img.shields.io/github/stars/charles-shaju/Smart_Altimeter?style=flat&label=Stars&labelColor=161616&color=161616" />
-<img alt="Forks" src="https://img.shields.io/github/forks/charles-shaju/Smart_Altimeter?style=flat&label=Forks&labelColor=161616&color=161616" />
-</div>
-
-<br />
-
-<div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
-<a href="https://github.com/charles-shaju/Graphical-LLP" style="text-decoration:none;color:#2EA043;"><b>Graphical-LLP</b></a><br />
-<img alt="Language" src="https://img.shields.io/github/languages/top/charles-shaju/Graphical-LLP?style=flat&label=&labelColor=161616&color=161616" /><br />
-<span style="color:#666666;"><i>No description available for this repository.</i></span><br />
-<img alt="Stars" src="https://img.shields.io/github/stars/charles-shaju/Graphical-LLP?style=flat&label=Stars&labelColor=161616&color=161616" />
-<img alt="Forks" src="https://img.shields.io/github/forks/charles-shaju/Graphical-LLP?style=flat&label=Forks&labelColor=161616&color=161616" />
-</div>
-
-<br />
+<p style="color:#8b949e;">Pinned repositories and contribution activity are shown below by GitHub automatically.</p>
 
 <sub>If any widget is rate-limited, it usually fixes itself after a bit.</sub>
