@@ -4,10 +4,10 @@ GitHub Profile README (dynamic widgets)
 Tip: This README is intended for the special repo named exactly your username.
 -->
 
-<table>
+<table width="100%" style="width:100%;table-layout:fixed;border-collapse:collapse;">
 <tr>
 <!-- ================= LEFT PANEL ================= -->
-<td width="32%" valign="top">
+<td width="32%" valign="top" style="width:32%;max-width:32%;overflow:hidden;word-break:break-word;">
 <p align="center">
 <img src="https://github.com/charles-shaju.png?size=220" width="220" alt="Profile picture" />
 </p>
@@ -64,7 +64,7 @@ Feel free to check out my repositories and connect.
 </td>
 
 <!-- ================= RIGHT PANEL ================= -->
-<td width="68%" valign="top">
+<td width="68%" valign="top" style="width:68%;max-width:68%;overflow:hidden;word-break:break-word;">
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
 <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;">
 <div>
@@ -76,12 +76,12 @@ Feel free to check out my repositories and connect.
 </div>
 
 <!-- ====== STATS TILES (dynamic, black) ====== -->
-<p>
-<img height="68" style="margin-right:12px" alt="Total repos" src="https://img.shields.io/badge/dynamic/json?label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcharles-shaju&style=for-the-badge&labelColor=000000&color=000000" />
-<img height="68" style="margin-right:12px" alt="All stars" src="https://img.shields.io/github/stars/charles-shaju?style=for-the-badge&label=ALL%20STARS&labelColor=000000&color=000000" />
-<img height="68" style="margin-right:12px" alt="Followers" src="https://img.shields.io/github/followers/charles-shaju?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000" />
+<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;">
+<img height="68" alt="Total repos" src="https://img.shields.io/badge/dynamic/json?label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcharles-shaju&style=for-the-badge&labelColor=000000&color=000000" />
+<img height="68" alt="All stars" src="https://img.shields.io/github/stars/charles-shaju?style=for-the-badge&label=ALL%20STARS&labelColor=000000&color=000000" />
+<img height="68" alt="Followers" src="https://img.shields.io/github/followers/charles-shaju?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=000000" />
 <img height="68" alt="Public gists" src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20GISTS&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcharles-shaju&style=for-the-badge&labelColor=000000&color=000000" />
-</p>
+</div>
 
 <!-- ====== CONTRIBUTIONS (GitHub-style grid) ====== -->
 <div style="border:1px solid #222222;border-radius:8px;padding:16px;background:#0A0A0A;">
@@ -97,7 +97,7 @@ Feel free to check out my repositories and connect.
 <div style="margin-top:12px;">
 <p><b>Self-Learner</b> | <b>ML Enthusiast</b> | <b>Python</b></p>
 <p><b>Core Technologies</b></p>
-<p>
+<div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -114,7 +114,7 @@ Feel free to check out my repositories and connect.
 <img alt="Shell" src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+</div>
 </div>
 <p align="center" style="margin:12px 0 0;">
 <img width="420" alt="Languages" src="assets/languages.svg" />
