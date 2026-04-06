@@ -25,22 +25,22 @@ Single-column layout avoids horizontal scrolling on profile pages.
 
 <br />
 
-<table width="100%" style="border-collapse:collapse;">
+<table width="100%" style="width:100%;table-layout:fixed;border-collapse:collapse;">
 <tr>
 <td width="50%" valign="top" style="padding:6px;">
 <div style="border:1px solid #222222;border-radius:8px;padding:12px;background:#0A0A0A;">
 <h3 style="margin:0;">Tech Stack &amp; Languages</h3>
 <p style="margin:8px 0 0;color:#8b949e;font-size:12px;">Top languages from public repositories</p>
-<p align="center" style="margin:10px 0 0;">
-<img width="300" alt="Languages" src="assets/languages.svg" />
+<p style="margin:10px 0 0;">
+<img alt="Languages" src="assets/languages.svg" style="width:100%;height:auto;display:block;" />
 </p>
 </div>
 </td>
 <td width="50%" valign="top" style="padding:6px;">
 <div style="border:1px solid #222222;border-radius:8px;padding:12px;background:#0A0A0A;">
 <h3 style="margin:0;">Streak</h3>
-<p align="center" style="margin:10px 0 0;">
-<img width="300" alt="GitHub streak" src="https://streak-stats.demolab.com?user=charles-shaju&theme=github-dark-blue&hide_border=true&cache_seconds=21600" />
+<p style="margin:10px 0 0;">
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=charles-shaju&theme=github-dark-blue&hide_border=true&cache_seconds=21600" style="width:100%;height:auto;display:block;" />
 </p>
 </div>
 </td>
