@@ -1,47 +1,32 @@
-name: Update contributions SVG
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '23 2 * * *' # daily
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
-concurrency:
-  group: update-contributions-svg
-  cancel-in-progress: false
-
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: charles-shaju
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Fetch contributions JSON
-        run: |
-          mkdir -p assets
-          curl -sSL "https://github-contributions-api.jogruber.de/v4/${{ github.repository_owner }}?y=last" -o assets/contributions.json
-
-      - name: Generate SVG
-        run: |
-          python3 tools/generate_contributions_svg.py --input assets/contributions.json --output assets/contributions.svg --cell 14 --gap 3
-
-      - name: Generate languages donut SVG
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 tools/generate_languages_donut_svg.py --username "${{ github.repository_owner }}" --output assets/languages.svg
-
-      - name: Commit updated SVG
-        run: |
-          if git diff --quiet; then
-            echo 'No changes.'
-            exit 0
-          fi
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add assets/contributions.svg assets/languages.svg
-          git commit -m 'chore: update contributions svg'
-          git push
