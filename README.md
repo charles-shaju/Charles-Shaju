@@ -256,7 +256,7 @@ Designing and deploying firmware and control systems for autonomous marine vehic
 
 ---
 
-## Contribution Activity
+## Activity
 
 <div align="center">
 
@@ -268,7 +268,7 @@ Designing and deploying firmware and control systems for autonomous marine vehic
 
 ---
 
-## Contribution Snake
+## Contribution
 
 <div align="center">
 
