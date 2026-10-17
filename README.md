@@ -75,6 +75,7 @@ Co-inventor on Indian patent application No. 202421040473, *An Underwater Remote
 
 - MathWorks Computer Vision Engineer (2026)
 - ISRO: Geodata Processing using Python & ML (2025)
+- ASAP Kerala: AI-Machine Learning Developer (2024)
 
 ---
 
